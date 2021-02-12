@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TerrabaseDB](https://github.com/terrabasedb/terrabasedb), some other projects at [Inspherium](https://github.com/inspherium) and creating [libraries](https://crates.io/users/ohsayan)
+- 🔭 I’m currently working on [Skybase (formerly TerrabaseDB)](https://github.com/skybasedb/skybase), some other projects at [Inspherium](https://github.com/inspherium) and creating [libraries](https://crates.io/users/ohsayan)
 - 🌱 I’m currently learning distributed systems and the design and implementation of file systems
 - 🔮 Things on my list: NLP and ML
 - 👯 I’m looking to collaborate on anything!
